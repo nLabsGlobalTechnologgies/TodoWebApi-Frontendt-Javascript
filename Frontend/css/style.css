@@ -1,0 +1,43 @@
+.work{
+  margin: 0;
+  padding: 0;
+  float: left;
+  margin-left: 50px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  box-shadow: #ccc;
+}
+
+button{
+  text-align: center;
+  font-size: 16px;
+  line-height: 35px;
+}
+.header{
+  margin-top: 20px;
+}
+h4{
+  float: right;
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+img{
+  margin-left: 25px;
+}
+.frm{
+  padding-left: 20px;
+}
+.tbl{
+  padding-right: 20px;
+}
+
+.frm{
+  margin-top: 50px;
+}
+
+.title{
+  position: absolute;
+  top:65px;
+}
